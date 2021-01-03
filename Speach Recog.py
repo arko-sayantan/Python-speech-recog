@@ -16,4 +16,4 @@ try:
         speaker.runAndWait()
 except:
     pass
-name = 0
+
